@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey! 👋
 
-<!--
-**dennisjones-svg/dennisjones-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **dennisjones-svg**, a backend gardener.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 Looking to collaborate on open source
+- 📫 Reach me through GitHub
+- ⚡ Fun fact: I write code while drinking coffee
+- 💬 Ask me anything about code
+
+## Tech
+
+`Swift` `Elasticsearch` `gRPC`
+
+---
+
+_Future rust dev._
